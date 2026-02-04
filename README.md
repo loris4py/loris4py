@@ -9,8 +9,8 @@
   ### 💻 Stack
   React, Next.js, TypeScript, Three.js, Node.js, Python, PostgreSQL, AWS, Docker, WebGL, React Native, GraphQL
 
-  ### 🤖 AI
-  Claude API, OpenAI GPT, Midjourney, Stable Diffusion, ElevenLabs
+  ### 🛠️ Tools
+  Claude Code, VS Code, GitHub, Termux, Obsidian, Notion, n8n
 
   ### 🎓 Certificazioni
   Google Ads · Semrush SEO · Cisco Cybersecurity
