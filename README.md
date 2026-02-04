@@ -1,16 +1,16 @@
-## Hi there 👋
+# Loris Lentini
 
-<!--
-**loris4py/loris4py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Full-Stack Developer con 20+ anni di esperienza. Specializzato in MarTech, AI e Cybersecurity.
 
-Here are some ideas to get you started:
+  Roma, Italia · [loris.pro](https://loris.pro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+
+  ### 💻 Stack
+  React, Next.js, TypeScript, Three.js, Node.js, Python, PostgreSQL, AWS, Docker, WebGL, React Native, GraphQL
+
+  ### 🤖 AI
+  Claude API, OpenAI GPT, Midjourney, Stable Diffusion, ElevenLabs
+
+  ### 🎓 Certificazioni
+  Google Ads · Semrush SEO · Cisco Cybersecurity
